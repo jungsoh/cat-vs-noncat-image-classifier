@@ -15,7 +15,7 @@ This model has only two layers: INPUT -> LINEAR -> RELU -> LINEAR -> SIGMOID -> 
 After 2500 iterations this model shows the training accuracy is 1.0 and the test accuracy of 0.72.
 
 ## L-layer deep neural network
-This model has L layers: INPUT -> L[INEAR -> RELU] x (L-1) -> LINEAR -> SIGMOID -> OUTPUT.
+This model has L layers: INPUT -> [LINEAR -> RELU] x (L-1) -> LINEAR -> SIGMOID -> OUTPUT.
 
 ![L-layer model architecture](images/LlayerNN_kiank.png)
 
