@@ -18,4 +18,5 @@ After 2500 iterations this model shows the training accuracy is 1.0 and the test
 This model has L layers: INPUT -> L[INEAR -> RELU] x (L-1) -> LINEAR -> SIGMOID -> OUTPUT.
 
 <img src='images/LlayerNN_kiank.png' width=60%>
+
 After 2500 iterations this model (with 4 layers) shows the training accuracy of 0.99 and the test accuracy of 0.8, which is better than that of the two-layer model.
