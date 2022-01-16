@@ -5,7 +5,7 @@ Image classification is an important computer vision problem. Here, we have a tw
 ## Datasets
 We have 209 training examples and 50 test examples, where each example is of shape (64, 64, 3) with each of RGB channel image is of size 64x64. The examples are labeled 1 for a cat and 0 for anything other than a cat. To input these examples into a neural network, we reshape each color image into a vector by flattening, as shown below.
 
-<img src='images/imvectorkiank.png' width=60%>
+<img src='images/imvectorkiank.png'>
 
 ## Two-layer neural network
 This model has only two layers: INPUT -> LINEAR -> RELU -> LINEAR -> SIGMOID -> OUTPUT.
