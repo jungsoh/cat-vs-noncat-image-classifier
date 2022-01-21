@@ -1,4 +1,4 @@
-# Deep neural networks: Cat vs non-cat classifier
+# Deep neural networks: Cat vs non-cat classification
 
 Image classification is an important computer vision problem. Here, we have a two-class problem where we want to classify a given image as containing a cat or not. We build two neural networks for this classification task using NumPy and compare their classification performance. I did this project in the [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) course as part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
